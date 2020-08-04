@@ -13,7 +13,6 @@
 - [Vue RFCs](https://github.com/vuejs/rfcs)
 - [Vue API](https://v3.vuejs.org/api/api.html)
 
-
 ## Packages
 
 - [vue-next](https://github.com/vuejs/vue-next)
@@ -22,9 +21,11 @@
 
 ## Engineering Utilities
 
+- [vite](https://github.com/vitejs/vite) - Native-ESM powered web dev build tool. It's fast.
 - [vue-cli-plugin-vue-next](https://github.com/vuejs/vue-cli-plugin-vue-next) - A Vue CLI plugin for trying out vue-next (experimental)
 - [vue-next-jsx](https://github.com/HcySunYang/vue-next-jsx) - A babel plugin that provides jsx syntax for vue3
 - [vue-next-webpack-preview](https://github.com/vuejs/vue-next-webpack-preview) - A vue-next example
+- [vue-test-utils-next](https://github.com/vuejs/vue-test-utils-next) - The next iteration of Vue Test Utils, targeting Vue 3
 
 ## Composition API
 
